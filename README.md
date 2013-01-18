@@ -24,3 +24,7 @@ parent.js is jQuery-based show or hide DOM by :radio, :checkbox checked attribut
   </body>
 </html>
 ```
+
+## License ##
+
+[MIT License](http://opensource.org/licenses/MIT)
